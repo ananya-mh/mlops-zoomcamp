@@ -1,0 +1,75 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+*.env
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# MyPy / Pylint / coverage
+.mypy_cache/
+.coverage
+coverage.xml
+htmlcov/
+pylint-report.txt
+
+# VSCode settings
+.vscode/
+
+# MLflow
+mlruns/
+
+# Data files
+data/
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.npy
+*.npz
+*.pkl
+*.joblib
+
+# Model binaries
+*.h5
+*.pt
+*.onnx
+*.pb
+*.sav
+models/
+
+# Notebook outputs (optional)
+*.out
+*.pdf
+*.png
+*.svg
+
+# OS-specific
+.DS_Store
+Thumbs.db
